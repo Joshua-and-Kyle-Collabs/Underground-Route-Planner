@@ -1,0 +1,5 @@
+Start Station,Destination,Journey,Journey Length
+Green Park,Bank,"['Green Park', 'Westminster', 'Waterloo', 'Bank']",9.0
+Euston,Victoria,"['Euston', 'Warren Street', 'Oxford Circus', 'Green Park', 'Victoria']",7.0
+Waterloo,Barbican,"['Waterloo', 'Bank', 'Moorgate', 'Barbican']",9.0
+Angel,Paddington,"['Angel', ""King's Cross St. Pancras"", 'Euston Square', 'Great Portland Street', 'Baker Street', 'Edgware Road', 'Paddington']",14.0
