@@ -7,4 +7,5 @@ For a user of the underground system, your solution needs to provide
 2.   provide a list of stations showing how the customer will travel from one starting station (x) to the destination station (y) on the underground system
 3.   how long the journey will take in total
 
-I additionally added my own feature where the program can display the routes that have been tried previously.
+The program takes the data from the excel spreadsheet to form a map.
+I additionally added my own feature where the program can display the routes that have been tried previously. These have been saved in the csv file
