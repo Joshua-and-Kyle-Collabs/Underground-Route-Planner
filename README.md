@@ -1,6 +1,6 @@
 # Underground-Route-Planner
 
-My solution to the task:
+Solution to the task:
 Your team have been asked to provide a model software solution for a route planner of the London Underground tube system for use by the general public. You should provide a model that will determine the solution for the quickest journey time and you should carefully consider the design, implementation and testing of the software.
 For a user of the underground system, your solution needs to provide 
 1.   the functionality to quickly and efficiently elicit the information from the customer for a planned route
