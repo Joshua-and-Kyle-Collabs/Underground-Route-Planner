@@ -1,7 +1,3 @@
-Here's a README file for your project that explains the functionality and usage:
-
----
-
 # London Underground Route Planner
 
 ## Overview
